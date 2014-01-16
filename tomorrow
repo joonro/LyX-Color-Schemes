@@ -65,7 +65,7 @@
 \set_color "pagebreak" "#3E999F"
 \set_color "buttonframe" "#d6d6d6"
 \set_color "buttonbg" "#fafafa"
-\set_color "buttonhoverbg" "#d6d6d6"
+\set_color "buttonhoverbg" "#efefef"
 \set_color "previewframe" "#d6d6d6"
 \set_color "green" "#718c00"
 
