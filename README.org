@@ -1,0 +1,10 @@
+# Created 2015-07-18 Sat 15:11
+#+TITLE: Color Schemes for LyX
+#+AUTHOR: Joon Ro
+* Color Schemes
+- Monokai (Thanks to [[https://github.com/chemscobra][Gustavo Leon]])
+- Tomorrow
+* How to Install
+- Replace =COLOR SECTION= part of the =preferences= file which is
+  located at the [[http://wiki.lyx.org/LyX/UserDir][LyX user directory]] with the contents of your desired color
+  scheme file.
