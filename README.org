@@ -1,10 +1,11 @@
-# Created 2015-11-05 Thu 19:17
+# Created 2017-09-17 Sun 17:33
 #+TITLE: Color Schemes for LyX
 #+AUTHOR: Joon Ro
 * List of color schemes
 - [[http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/][monokai]] (Thanks to [[https://github.com/chemscobra][Gustavo Leon]])
 - [[http://ethanschoonover.com/solarized][Solarized]] Light & Dark
-- [[https://github.com/ChrisKempson/Tomorrow-Theme][Tomorrow]]
+- [[https://github.com/ChrisKempson/Tomorrow-Theme][Tomorrow]] & Night
 * How to Install
 - Replace =COLOR SECTION= part of the =preferences= file which is located at
-  the [[http://wiki.lyx.org/LyX/UserDir][LyX user directory]] with the contents of one of the color scheme file.
+  the [[http://wiki.lyx.org/LyX/UserDir][LyX user directory]] with the
+  contents of one of the color scheme file.
