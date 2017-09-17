@@ -1,8 +1,9 @@
-# Created 2017-09-17 Sun 17:33
+# Created 2017-09-17 Sun 17:36
 #+TITLE: Color Schemes for LyX
 #+AUTHOR: Joon Ro
 * List of color schemes
 - [[http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/][monokai]] (Thanks to [[https://github.com/chemscobra][Gustavo Leon]])
+- [[https://github.com/atom/one-dark-syntax][One Dark]]
 - [[http://ethanschoonover.com/solarized][Solarized]] Light & Dark
 - [[https://github.com/ChrisKempson/Tomorrow-Theme][Tomorrow]] & Night
 * How to Install
